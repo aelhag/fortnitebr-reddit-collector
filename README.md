@@ -142,6 +142,7 @@ They verify deduplication, deterministic selection, identifier minimization, del
 - [`PRIVACY.md`](PRIVACY.md) — data handling and retention.
 - [`COMPLIANCE.md`](COMPLIANCE.md) — operational policy controls.
 - [`REDDIT_ACCESS_REQUEST.md`](REDDIT_ACCESS_REQUEST.md) — narrow request summary for reviewer transparency.
+- [`APPLICATION_FORM_ANSWERS.md`](APPLICATION_FORM_ANSWERS.md) — policy-aligned draft answers for the access form.
 - [`NOTICE.md`](NOTICE.md) — trademark and affiliation notice.
 
 ## Status
